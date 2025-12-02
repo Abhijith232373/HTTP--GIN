@@ -6,7 +6,7 @@
 
 - [x] Create a simple Go server that handles `GET` and `POST`.
 
-- [ ] Implement `/api/hello` returning JSON (`{"message": "Hello, World!"}`).
+- [x] Implement `/api/hello` returning JSON (`{"message": "Hello, World!"}`).
 
 - [ ] Create `/api/user` endpoint accepting `POST` JSON data (`name`, `age`).
 
