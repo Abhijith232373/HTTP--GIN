@@ -8,7 +8,7 @@
 
 - [x] Implement `/api/hello` returning JSON (`{"message": "Hello, World!"}`).
 
-- [ ] Create `/api/user` endpoint accepting `POST` JSON data (`name`, `age`).
+- [x] Create `/api/user` endpoint accepting `POST` JSON data (`name`, `age`).
 
 ## ***Day 2: Gin Framework & Routing***
 
