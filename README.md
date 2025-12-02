@@ -26,7 +26,7 @@
 
 - [x] Create logging middleware to log all requests to login/logout routes.
 
-- [ ] Implement authentication middleware to protect certain routes
+- [x] Implement authentication middleware to protect certain routes
 
 ## ***Day 4: Validation, Authentication & Security***
 
