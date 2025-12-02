@@ -16,7 +16,7 @@
 
 - [x] Add a `/api` route group for REST APIs.
 
-- [ ] Implement `/users` API supporting `GET` & `POST`.
+- [x] Implement `/users` API supporting `GET` & `POST`.
 
 ## ***Day 3: Sessions, Cookies & Middleware***
 
