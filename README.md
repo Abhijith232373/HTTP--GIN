@@ -20,7 +20,7 @@
 
 ## ***Day 3: Sessions, Cookies & Middleware***
 
-- [ ] Implement a login endpoint validating hardcoded username/password.
+- [x] Implement a login endpoint validating hardcoded username/password.
 
 - [ ] Store a session cookie on login, and keep user logged in until sign out.
 
