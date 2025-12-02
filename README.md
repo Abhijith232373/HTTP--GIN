@@ -12,7 +12,7 @@
 
 ## ***Day 2: Gin Framework & Routing***
 
-- [ ] Build a Gin server that serves a homepage.
+- [x] Build a Gin server that serves a homepage.
 
 - [ ] Add a `/api` route group for REST APIs.
 
