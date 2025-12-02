@@ -14,7 +14,7 @@
 
 - [x] Build a Gin server that serves a homepage.
 
-- [ ] Add a `/api` route group for REST APIs.
+- [x] Add a `/api` route group for REST APIs.
 
 - [ ] Implement `/users` API supporting `GET` & `POST`.
 
