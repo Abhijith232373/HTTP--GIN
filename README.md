@@ -22,7 +22,7 @@
 
 - [x] Implement a login endpoint validating hardcoded username/password.
 
-- [ ] Store a session cookie on login, and keep user logged in until sign out.
+- [x] Store a session cookie on login, and keep user logged in until sign out.
 
 - [ ] Create logging middleware to log all requests to login/logout routes.
 
