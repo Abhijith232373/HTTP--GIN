@@ -34,7 +34,7 @@
 
 - [x] Hash passwords before storing (use `golang.org/x/crypto/bcrypt`).
 
-- [ ] Implement a **protected dashboard route** accessible only to logged-in users
+- [x] Implement a **protected dashboard route** accessible only to logged-in users
 
 ## ***Day 5: Testing***
 
