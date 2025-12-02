@@ -24,7 +24,7 @@
 
 - [x] Store a session cookie on login, and keep user logged in until sign out.
 
-- [ ] Create logging middleware to log all requests to login/logout routes.
+- [x] Create logging middleware to log all requests to login/logout routes.
 
 - [ ] Implement authentication middleware to protect certain routes
 
