@@ -30,7 +30,7 @@
 
 ## ***Day 4: Validation, Authentication & Security***
 
-- [ ] Validate user input (`empty fields`, `invalid format`).
+- [x] Validate user input (`empty fields`, `invalid format`).
 
 - [ ] Hash passwords before storing (use `golang.org/x/crypto/bcrypt`).
 
