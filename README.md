@@ -1,6 +1,6 @@
 # <mark>Web Development in Go (Gin Framework)</mark>
 
-***
+****
 
 # ***Day 1: HTTP & REST API Fundamentals***
 
