@@ -36,7 +36,7 @@
 
 - [x] Implement a **protected dashboard route** accessible only to logged-in users
 
-## ***Day 5: Testing***
+## ***Day 5: Testing****
 
 - [ ] Write unit tests for session & cookie handling.
 
